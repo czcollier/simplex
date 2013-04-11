@@ -2,7 +2,7 @@
 <web-app>
   <servlet>
     <servlet-name>Framework</servlet-name>
-    <servlet-class>net.xorf.simplex.Framework</servlet-class>
+    <servlet-class>net.xorf.simplex.testapp.TestApp</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Framework</servlet-name>
